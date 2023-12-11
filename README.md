@@ -1,6 +1,6 @@
 # Pacmen Exercise
 ### Project Title: Pacmen exercise
-<img src="PacMan1.png" width="300"/>
+<img src="images/pacman1.png" width="300"/>
 
 ## Description
 The Pacman Exercise done with html and javascript to show pacman movement around the screen. The Pacman moves faster when you click on it. You can find the project through the link below.
